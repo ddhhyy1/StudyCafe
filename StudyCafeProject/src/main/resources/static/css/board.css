@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+th.board_title{
+	background-color : #A1B57D;
+	border : 1px solid #B33030;
+	font-size : 20xp;
+	color: #2a2a2a;
+	font-family:malgun;
+	font-weight: bold;
+}
+
+td.board_content01{
+	background-color : #ffebac;
+	border : 1px solid #B33030;
+	font-size : 20xp;
+	color: #800040;
+	font-family:malgun;
+	text-align:center;
+}
+
+td.board_content02{
+	background-color : #ffebac;
+	border : 1px solid #B33030;
+	font-size : 20xp;
+	color: #F6EEC9;
+	font-family:malgun;
+	font-weight: bold;
+	text-align:left;
+}
